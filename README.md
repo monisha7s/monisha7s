@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a Student
+Bachelor of Computer Applications.
+Exploring Data Science & Web Development.
+
 
 
 # 💻 Tech Stack:
